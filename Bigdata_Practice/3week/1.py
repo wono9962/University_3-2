@@ -2,7 +2,7 @@
 import numpy as np
 
 # [버전 확인]
-# np.__version__
+np.__version__
 
 # [배열 생성]
 ar1 = np.array([1, 2, 3, 4, 5])
@@ -18,7 +18,7 @@ ar9 = np.dot(ar2, ar4) #dot(): 곱셈 연산
 print(ar8)
 
 # [type 확인]
-# print(type(ar1))
+print(type(ar1))
 
 
 
